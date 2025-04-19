@@ -1,4 +1,4 @@
-# Deep-Learning-Based-Classification-of-Oral-Squamous-Cell-Carcinoma-vs.-Norma
+# Deep-Learning-Based-Classification-of-OSCC vs.-Norma
 
 Because of its rising frequency and natural difficulties in early identification and effective treatment planning, oral squamous cell carcinoma (OSCC) is a serious worldwide health issue. Improved patient outcomes and survival rates depend on early diagnosis. Effective treatment is still hampered by delayed diagnosis even although knowledge of the molecular processes behind OSCC has improved greatly. Customized to specific patient profiles, precision medicine is becoming increasingly important. Including deep learning algorithms into clinical procedures shows great potential for early detection and therapy planning.
 
